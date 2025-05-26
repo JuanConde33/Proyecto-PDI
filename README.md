@@ -1,6 +1,7 @@
 🧬 Detección de Células Avanzada
 
 🎯 Objetivo
+
 Desarrollar una aplicación interactiva que permita cargar imágenes microscópicas, preprocesarlas y detectar células automáticamente mediante técnicas de visión por computadora, con el fin de facilitar el análisis visual y el conteo de células en entornos académicos o de investigación básica. Esta herramienta busca ser accesible, configurable y visualmente clara para usuarios con conocimientos básicos en procesamiento digital de imágenes.
 
 📷 Características Principales
