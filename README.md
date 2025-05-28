@@ -10,10 +10,9 @@ Desarrollar una aplicación interactiva que permita cargar imágenes microscópi
 Opciones de preprocesamiento:
 * Conversión a escala de grises
 * Filtro Gaussiano para eliminar ruido
-* Ecualización de histograma
+  
 
 Métodos de umbralización:
-* Umbral de Otsu
 * Umbral adaptativo gaussiano
 
 Operaciones morfológicas:
